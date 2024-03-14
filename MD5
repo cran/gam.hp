@@ -1,0 +1,15 @@
+ede3f86bc49fee18707edf54549f11fe *DESCRIPTION
+44ab24b689199ffb81b314a813d3e09a *NAMESPACE
+ae88989317fa79033f9172d8231cc697 *R/creatbin.r
+846ad3afeed15fb17818068e0257565c *R/gam.hp.r
+8129aeb76d1d15fc7404e5da91011466 *R/genList.r
+94fa18889f0055c8e344b59bc9febbe9 *R/globals.r
+3825425cbe06764acd30e3c676c8e512 *R/permu.gamhp.r
+e19c70a024259e15ba90c71db2d563ce *R/plot.gamhp.r
+54d83ea0616c2b7c627b7ecea5d0e3c7 *inst/CITATION
+8b2bbbee43ac7822dee299cf8ab59a63 *man/creatbin.Rd
+a6cae875e5236eebf6e85d84483bf7c6 *man/gam.hp.Rd
+b5eca751aaff29d7f8e5d1c553478955 *man/genList.Rd
+f67e3225daeb80b903ac8bcccdd778a7 *man/odd.Rd
+8608c9aee20bd1009411b6edb5048188 *man/permu.gamhp.Rd
+17412a3bac954276573ee50dec54bab2 *man/plot.gamhp.Rd
