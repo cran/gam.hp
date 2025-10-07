@@ -1,7 +1,7 @@
-ca5815ac2487960d3015c5b3d85a8701 *DESCRIPTION
+11b3fd950a093d7e594d90a6ca3588d8 *DESCRIPTION
 44ab24b689199ffb81b314a813d3e09a *NAMESPACE
 ae88989317fa79033f9172d8231cc697 *R/creatbin.r
-b51e898488069e170ed0f73f184ea7c8 *R/gam.hp.r
+e41ebf2e8211328e2a9cc3bd792b7238 *R/gam.hp.r
 8129aeb76d1d15fc7404e5da91011466 *R/genList.r
 94fa18889f0055c8e344b59bc9febbe9 *R/globals.r
 4f5938ce98e23984db29da36244c67fd *R/permu.gamhp.r
@@ -9,7 +9,7 @@ e19c70a024259e15ba90c71db2d563ce *R/plot.gamhp.r
 80d44c2878be8ebdc8aa0bc337a4eef2 *R/zzz.R
 df81dfa79db1c23329e8b64801eed9ed *inst/CITATION
 8b2bbbee43ac7822dee299cf8ab59a63 *man/creatbin.Rd
-1403c2d57f45bc9136af9a96ad5caaa0 *man/gam.hp.Rd
+bcc2701fe178cd828ad8a60e4d703eea *man/gam.hp.Rd
 b5eca751aaff29d7f8e5d1c553478955 *man/genList.Rd
 f67e3225daeb80b903ac8bcccdd778a7 *man/odd.Rd
 411e9138a6abf604ecc973a1b330baea *man/permu.gamhp.Rd
